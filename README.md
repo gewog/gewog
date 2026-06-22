@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6bcb,50:7c3aed,100:00d4ff&height=200&section=header&text=Veronika%20Tsvetkova&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Backend%20%7C%20Async%20%26%20Microservices&descSize=16&descAlignY=55&descAlign=50"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=180&section=header&text=Veronika%20Tsvetkova&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Python%20Developer%20%7C%20Backend%20%7C%20Async&descSize=16&descAlignY=58)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;FastAPI+%7C+Django+%7C+Flask;Building+scalable+backend+systems;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;FastAPI+%7C+Flask;Building+scalable+backend+systems;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -59,7 +59,6 @@ class Veronika:
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-FF6B6B?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
@@ -85,7 +84,7 @@ class Veronika:
 
 **Backend & Architecture**
 - Python 3.10+
-- FastAPI · Flask · Django
+- FastAPI · Flask
 - REST API · Microservices
 - SOLID · Design Patterns · OOP
 - Asyncio · aiohttp · aiogram
@@ -145,7 +144,7 @@ class Veronika:
 ## 🎯 What I Build
 
 ```text
-  🌐 REST APIs          →  FastAPI / Django / Flask
+  🌐 REST APIs          →  FastAPI / Flask
   🤖 Telegram bots      →  aiogram + asyncio
   🕷️  Web scraping       →  Selenium / bs4 / lxml
   🧪 Test automation    →  Pytest + Allure + mocks
@@ -173,7 +172,7 @@ class Veronika:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6bcb,50:7c3aed,100:00d4ff&height=120&section=footer&animation=twinkling"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=100&section=footer&animation=twinkling)
 
 **Thanks for visiting!** ✨ *Stay curious, keep coding, and never skip tests* 🧪
 
