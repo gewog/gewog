@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=210&section=header&text=Veronika%20Tsvetkova&fontSize=36&fontColor=ffffff&fontAlignY=28&animation=twinkling&desc=Python%20Backend%20%7C%20Vibecoder%20%7C%20QA&descSize=14&descAlignY=72&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=210&section=header&text=Veronika%20Tsvetkova&fontSize=36&fontColor=ffffff&fontAlignY=30&animation=twinkling&desc=Python%20Backend%20%7C%20Vibecoder%20%7C%20QA&descSize=14&descAlignY=62&descAlign=50)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%7C+Flask+%7C+Asyncio;Vibecoder+with+Cursor+%26+AI+%E2%9C%A8;Strong+in+QA+%E2%80%94+Pytest+%26+Postman+%F0%9F%A7%AA;Building+scalable+backend+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%7C+Asyncio+%7C+Microservices;Vibecoder+with+Cursor+%26+AI+%E2%9C%A8;Strong+in+QA+%E2%80%94+Pytest+%26+Postman+%F0%9F%A7%AA;Building+scalable+backend+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -40,7 +40,7 @@ class Veronika:
 
 - 🐍 **Backend Developer** — APIs, микросервисы, базы данных, автоматизация
 - ✨ **Vibecoder** — пишу код с **Cursor** и AI-инструментами
-- 🧪 **Крута в QA** — тест-кейсы, API-тесты (**Postman**, **Swagger**), автотесты **Pytest** + **Allure**
+- 🧪 **QA** — тест-кейсы, API-тесты (**Postman**, **Swagger**), автотесты **Pytest** + **Allure**
 - ⚡ Люблю **асинхронность**, **микросервисы** и чистую архитектуру
 - 🐳 **Docker**, **CI/CD**, деплой на **Render** / **Railway**
 - 📫 Связь: **224488gewog224488@gmail.com** · Telegram **@Vertsts**
