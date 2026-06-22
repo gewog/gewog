@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=180&section=header&text=Veronika%20Tsvetkova&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Python%20Developer%20%7C%20Backend%20%7C%20Async&descSize=16&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorLeft=ff6bcb&customColorRight=00d4ff&height=210&section=header&text=Veronika%20Tsvetkova&fontSize=36&fontColor=ffffff&fontAlignY=28&animation=twinkling&desc=Python%20Backend%20%7C%20Vibecoder%20%7C%20QA&descSize=14&descAlignY=72&descAlign=50)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;FastAPI+%7C+Flask;Building+scalable+backend+systems;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Veronika+%F0%9F%91%8B;Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%7C+Flask+%7C+Asyncio;Vibecoder+with+Cursor+%26+AI+%E2%9C%A8;Strong+in+QA+%E2%80%94+Pytest+%26+Postman+%F0%9F%A7%AA;Building+scalable+backend+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,8 @@
 ```python
 class Veronika:
     name = "Цветкова Вероника Андреевна"
-    role = "Python Developer"
+    role = "Python Backend Developer"
+    vibe = "vibecoder"  # Cursor, AI-assisted coding
     location = "Russia"
     english = "Intermediate / Upper-Intermediate (C1-C2)"
 
@@ -29,19 +30,19 @@ class Veronika:
             "async backends",
             "microservices",
             "clean architecture",
-            "TDD & QA",
             "anime aesthetics",
         ]
+        self.also_strong_in = ["QA", "test automation", "API testing"]
 
     def currently_learning(self):
         return "scalable systems, async patterns, DevOps pipelines"
 ```
 
-- 🐍 **Python Developer** — backend, APIs, databases, automation
+- 🐍 **Backend Developer** — APIs, микросервисы, базы данных, автоматизация
+- ✨ **Vibecoder** — пишу код с **Cursor** и AI-инструментами
+- 🧪 **Крута в QA** — тест-кейсы, API-тесты (**Postman**, **Swagger**), автотесты **Pytest** + **Allure**
 - ⚡ Люблю **асинхронность**, **микросервисы** и чистую архитектуру
-- 🧪 Пишу тесты: **Pytest**, **Allure**, моки HTTP
 - 🐳 **Docker**, **CI/CD**, деплой на **Render** / **Railway**
-- 🎨 Вдохновляюсь ярким дизайном и anime-эстетикой
 - 📫 Связь: **224488gewog224488@gmail.com** · Telegram **@Vertsts**
 
 ---
@@ -105,10 +106,10 @@ class Veronika:
 <tr>
 <td width="50%" valign="top">
 
-**Testing & QA**
-- Pytest · Allure · TDD
-- httpx · mocker · responses
-- QA · Test IT · DevTools · Lighthouse
+**Testing & QA** *(вторая суперсила)*
+- Pytest · Allure · Selenium · httpx
+- Postman · Swagger · API testing
+- Test IT · DevTools · test-design basics
 
 </td>
 <td width="50%" valign="top">
