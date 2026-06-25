@@ -131,7 +131,7 @@ class Veronika:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gewog&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6BCB&icon_color=00D4FF&text_color=FFFFFF&border_radius=12" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=gewog&theme=radical&hide_border=true&background=0D1117&ring=FF6BCB&fire=7C3AED&currStreakLabel=00D4FF&border_radius=12" alt="GitHub Streak"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=gewog&theme=radical&hide_border=true&background=0D1117&ring=FF6BCB&fire=7C3AED&currStreakLabel=00D4FF&border_radius=12" alt="GitHub Streak"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gewog&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6BCB&text_color=FFFFFF&border_radius=12" alt="Top Languages"/>
 
 <br/><br/>
